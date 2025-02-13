@@ -28,7 +28,6 @@ Casual--quality-grade = Epämuodollinen
 Close = Sulje
 Closes-introduction = Sulje intro
 Collection-Project = Koontiprojektit
-Community = Yhteisö
 Community-based = Yhteisöpohjainen
 Community-Guidelines = Yhteisön pelisäännöt
 CONNECT-TO-NATURE = VIETÄ AIKAA LUONNOSSA
@@ -105,6 +104,7 @@ If-you-leave-x-of-your-observations-removed =
     } poistetaan tästä projektista.
 improving--identification = Parannus
 iNat-is-global-community = iNaturalist on luonnontieteilijöiden maailmanlaajuinen yhteisö, joka luo avointa dataa tieteelle havaitsemalla ja tunnistamalla eliöitä yhdessä.
+iNaturalist-couldnt-identify-this-organism = iNaturalist ei voinut tunnistaa tätä eliötä.
 iNaturalist-is-supported-by-our-community = iNaturalistia tukee upea yhteisömme. Arvostamme suuresti kaikkia jäseniämme: arkipäivän luonnontieteilijöitä, jotka lisäävät havaintoja ja tunnistuksia, kuraattoreita, jotka hallinnoivat taksonomiaamme ja auttavat moderoinnissa, vapaaehtoisia kääntäjiä, jotka tekevät iNaturalistista saavutettavamman maailmanlaajuiselle yleisölle, sekä yhteisömme lahjoittajia. Olemme äärimmäisen kiitollisia kaikille yhteisömme jäsenille, jotka tekevät iNaturalistista sellaisen alustan kuin se on.
 Introduced = Vieraslaji
 January = Tammikuu
@@ -241,6 +241,7 @@ Unknown--rank = Tuntematon
 Unknown--taxon = Tuntematon
 Unknown--user = Tuntematon
 Unknown-error = Tuntematon virhe
+Use-iNaturalist-to-identify-any-living-thing = Käytä iNaturalistia tunnistaaksesi minkä tahansa elävän olennon
 Use-iNaturalists-AI-Camera = Käytä iNaturalistin tekokameraa tunnistaaksesi eliöt reaaliajassa
 Use-the-iNaturalist-camera-to-observe-2 = Käytä iNaturalistia tarkkaillaksesi ja tunnistaaksesi eliöitä reaaliajassa. Jaa ne yhteisömme kanssa saadaksesi niille tunnistuksen ja edistääksesi tiedettä!
 Users = Käyttäjät
@@ -262,12 +263,6 @@ X-SPECIES--below-number =
        *[other] LAJIA
     }
 You-likely-observed-a-new-species = Havaitsit todennäköisesti uuden lajin!
-You-likely-observed-a-species = Havaitsit todennäköisesti lajin
-You-likely-observed-an-organism-in-this-group = Havaitsit todennäköisesti eliön tästä ryhmästä
 You-may-have-observed-a-new-species = Saatoit havaita uuden lajin!
-You-may-have-observed-a-species = Saatoit havaita lajin
-You-may-have-observed-an-organism-in-this-group = Saatoit havaita eliön tästä ryhmästä
 You-must-install-Google-Play-Services-to-sign-in-with-Google = Sinun on asennettava Google Play -palvelut, jotta voit kirjautua Google-tilillä.
 You-need-log-in-to-do-that = Sinun täytyy kirjautua ensin.
-You-observed-a-species = Havaitsit lajin
-You-observed-an-organism-in-this-group = Havaitsit eliön tästä ryhmästä
